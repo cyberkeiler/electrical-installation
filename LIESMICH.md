@@ -1,5 +1,6 @@
 # Bibliothek für KICAD
-Ich möchte die Dokumentation einer Elektroinstallation machen, finde aber kein günsiges und gutes Programm. Da KICAD viel Potential bietet. Möchte ich eine LIB auf Basis der deutschen Norm erstellen.
+Ich möchte die Dokumentation einer Elektroinstallation machen, finde aber kein günstiges und gutes Programm. 
+Da KICAD viel Potential bietet, möchte ich eine LIB auf Basis der deutschen Norm erstellen.
 
 Eine erste Version ist erstellt.
  - zwei FI mit 2 und 4 Polen
